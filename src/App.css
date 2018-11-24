@@ -30,3 +30,21 @@
     transform: rotate(360deg);
   }
 }
+
+.Lists {
+  display: flex;
+  text-align: center;
+  justify-content: space-around;
+}
+
+.Liked {
+  flex-direction: column;
+  flex-wrap: wrap;
+  text-align: center;
+}
+
+.Liked {
+  flex-direction: column;
+  flex-wrap: wrap;
+  text-align: center;
+}
